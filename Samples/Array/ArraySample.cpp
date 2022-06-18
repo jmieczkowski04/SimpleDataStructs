@@ -1,4 +1,4 @@
-#include <iostream>
+#include <cassert>
 #include <Array.h>
 
 int main()
